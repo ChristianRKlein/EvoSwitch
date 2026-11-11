@@ -1,0 +1,5 @@
+case,tau_q_1.20,tau_q_approximation,fixed_28d_crosses_1.20_after_days,off_days_0.8tau_q,delta_T_0.8tau_q,off_days_marker_1.10,delta_T_marker_1.10,tau_q_recist_volume,delta_T_fixed_28d_recist_volume
+"timing example, day 38",14.63,14.44,14.6,11.71,29.37,7.57,18.86,46.3,72.13
+"timing example, day 126",13.19,12.89,13.2,10.55,21.94,6.87,14.19,40.4,60.31
+tumor A,20.11,20.11,20.1,16.09,5.10,10.21,3.26,71.6,8.71
+tumor B,21.01,20.11,21.0,16.81,39.29,10.67,24.87,74.8,65.34

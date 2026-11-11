@@ -1,0 +1,5 @@
+reduction_percent,first_eligible_day,delta_T_days,resistant_percent_at_start,resistant_percent_at_restart
+30.0,38,78.97,1.32,0.89
+50.0,77,62.47,1.93,1.38
+65.7,126,46.11,3.36,2.53
+80.0,207,27.31,9.14,7.32

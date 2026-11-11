@@ -1,0 +1,13 @@
+scenario,first_day,first_day_optimal,delta_T_first,tumor_A,tumor_B,upper_limit_30,upper_limit_40
+Reference,38,True,79.0,-3.6,70.1,0.85,3.73
+No fitness cost (g_R = g_S),38,True,79.5,-1.6,70.7,0.23,0.92
+Resistant cells faster (g_R = 1.2 g_S),38,True,79.8,-0.5,71.3,0.07,0.29
+Large fitness cost (g_R = 0.5 g_S),38,True,78.9,-10.9,69.1,13.80,>15
+No new resistance (nu = 0),38,True,79.0,2.2,70.1,0.85,3.74
+Frequent new resistance (nu = 1e-6),38,True,78.2,-8.0,69.9,0.77,3.65
+"Slow growth (g_S, g_R x 0.5)",23,True,44.4,-13.4,47.9,>15,>15
+"Fast growth (g_S, g_R, kappa x 2)",34,True,75.2,0.5,132.0,0.14,0.21
+Tight threshold,38,True,79.0,-3.7,70.2,0.44,1.76
+Loose threshold,38,True,78.9,-3.5,69.9,>15,>15
+Short interruption (14 days),38,True,37.2,-2.0,34.1,0.84,4.06
+Long interruption (56 days),68,True,150.3,-5.9,146.4,0.84,3.18

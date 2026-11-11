@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below and cite the accompanying article."
+title: "EvoSwitch: timing and patient selection for strategic interruptions of targeted cancer therapy"
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com/ChristianRKlein/EvoSwitch"
+authors:
+  - family-names: Klein
+    given-names: Christian R.
+    affiliation: "University Hospital Bonn"
+  - family-names: Brossart
+    given-names: Peter
+    affiliation: "University Hospital Bonn"
+references:
+  - type: article
+    title: "Optimal Initiation and Clonal Competition in Targeted Cancer Therapy Interruptions"
+    authors:
+      - family-names: Klein
+        given-names: Christian R.
+      - family-names: Brossart
+        given-names: Peter
+    journal: "npj Systems Biology and Applications"
+    notes: "Manuscript submitted"
